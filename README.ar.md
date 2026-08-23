@@ -40,9 +40,21 @@ lock decisive silhouette and structure → preserve three cues → flatten volum
 
 توجد القيود الجمالية وقواعد الرفض الكاملة في المهارة وتوجيهات الإنتاج. وهي تحفظ دافع النص الأصلي من دون تحويل لوحة 3:4 التاريخية إلى قيمة افتراضية خفية. [SKILL.md](SKILL.md) · [production prompt](references/xxd-panel-044-prompt.en.md)
 
-## النماذج · قريباً
+## النماذج · من X
 
-لن يضاف إلى `assets/examples/` إلا عمل مكتمل بهذا الأسلوب ومؤكد من صاحب المشروع، ولن يُستخدم أسلوب آخر كعنصر مؤقت.
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091168463775736248) · 22 أغسطس 2026<br>
+> GPT2 × رقائق الذهب × إعادة رسم × توجيه جمالي × VOL.044
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091168463775736248"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 044 نموذج 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091168463775736248"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 044 نموذج 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091168463775736248">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
+
+تعرض هذه النماذج الدافع الجمالي للإصدار 044 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
 
 ## أربعة مخرجات قابلة للجمع
 

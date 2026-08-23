@@ -40,9 +40,21 @@ If an unrelated photograph could replace the source without materially changing 
 
 Complete aesthetic constraints and rejection rules live in the Skill and production prompts. They preserve the original brief without turning its historical 3:4 canvas into a hidden default. [SKILL.md](SKILL.md) · [production prompt](references/xxd-panel-044-prompt.en.md)
 
-## Samples · Coming soon
+## Samples · From X
 
-Only finished work verified by the project owner will be added to `assets/examples/`; another style is never used as a placeholder.
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091168463775736248) · 22 August 2026<br>
+> GPT2 × gold leaf × reinterpretation × aesthetic prompt × VOL.044
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091168463775736248"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 044 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091168463775736248"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 044 sample 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091168463775736248">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 044 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## Four combinable output modes
 
