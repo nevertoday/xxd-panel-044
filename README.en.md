@@ -20,6 +20,22 @@
 
 The decisive source silhouette is laid directly on a dark plane in real thin gold—foil, hammered sheet, pressed metal, or shallow cast material—with soft sheen, marks, folds, edge lift, and selective breaks.
 
+## Samples · From X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091168463775736248) · 22 August 2026<br>
+> GPT2 × gold leaf × reinterpretation × aesthetic prompt × VOL.044
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091168463775736248"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 044 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091168463775736248"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 044 sample 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091168463775736248">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 044 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
 ## Why this Skill exists
 
 The style is source-dependent, not a decorative preset. Its operative transformation is:
@@ -39,22 +55,6 @@ If an unrelated photograph could replace the source without materially changing 
 - Keep one gold subject as the sole focus; reflection follows real material relief without mirror glare, vulgar yellow, or luxury-advertising drama.
 
 Aesthetic constraints and rejection rules live only in the [original source brief](references/044-source.md); the Skill and runtime adapter handle delivery variables only. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-044-prompt.en.md)
-
-## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091168463775736248) · 22 August 2026<br>
-> GPT2 × gold leaf × reinterpretation × aesthetic prompt × VOL.044
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091168463775736248"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 044 sample 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091168463775736248"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 044 sample 2"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091168463775736248">View the original post and full prompt →</a></p>
-
-These samples demonstrate the 044 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## The original brief is authoritative
 

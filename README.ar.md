@@ -20,6 +20,22 @@
 
 يوضع المحيط الحاسم من المصدر مباشرة على سطح داكن بمادة ذهبية رقيقة حقيقية: ورق ذهب أو صفيحة مطروقة أو معدن مضغوط أو صب سطحي، مع لمعان ناعم وآثار وطيات وارتفاع حواف وقطوع منتقاة.
 
+## النماذج · من X
+
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091168463775736248) · 22 أغسطس 2026<br>
+> GPT2 × رقائق الذهب × إعادة رسم × توجيه جمالي × VOL.044
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091168463775736248"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 044 نموذج 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091168463775736248"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 044 نموذج 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091168463775736248">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
+
+تعرض هذه النماذج الدافع الجمالي للإصدار 044 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
+
 ## لماذا توجد هذه المهارة؟
 
 يعتمد الأسلوب على المصدر وليس قالباً زخرفياً يمكن تبديل محتواه. ويتبع سلسلة التحويل الآتية:
@@ -39,22 +55,6 @@ lock decisive silhouette and structure → preserve three cues → flatten volum
 - **المادة واللون:** يُشتقان من الصورة وفق توجيه الإنتاج الخاص بالمشروع، لا من قالب ثابت.
 
 لا توجد القيود الجمالية وقواعد الرفض إلا في [الموجّه الأصلي](references/044-source.md)، أما المهارة ومهايئ التشغيل فيعالجان متغيرات التسليم فقط. [Skill](SKILL.md) · [مهايئ التشغيل الإنجليزي](references/xxd-panel-044-prompt.en.md)
-
-## النماذج · من X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091168463775736248) · 22 أغسطس 2026<br>
-> GPT2 × رقائق الذهب × إعادة رسم × توجيه جمالي × VOL.044
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091168463775736248"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 044 نموذج 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091168463775736248"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 044 نموذج 2"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091168463775736248">عرض المنشور الأصلي والتوجيه كاملاً ←</a></p>
-
-تعرض هذه النماذج الدافع الجمالي للإصدار 044 فقط؛ ولا تصبح موضوعاتها أو تكوينها أو ألوانها أو نصوصها أو نسبة اللوحة السابقة مراجع للتوليد أو إعدادات افتراضية حالية.
 
 ## الموجّه الأصلي هو المرجع الجمالي الوحيد
 

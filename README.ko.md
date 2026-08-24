@@ -20,6 +20,22 @@
 
 원본의 결정적 실루엣을 금박, 단조 금속, 압인 금속 또는 얕은 주조 금으로 짙은 평면에 직접 놓고 부드러운 광택, 망치 자국, 접힘, 들린 가장자리와 선택적 단절을 보존합니다.
 
+## 예시 · X에서
+
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091168463775736248) · 2026년 8월 22일<br>
+> GPT2 × 금박 × 재해석 × 미학 프롬프트 × VOL.044
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091168463775736248"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 044 예시 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091168463775736248"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 044 예시 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091168463775736248">원문 게시물과 전체 프롬프트 보기 →</a></p>
+
+이 예시는 044의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
+
 ## 이 Skill이 필요한 이유
 
 이 스타일은 원본에 의존하며 내용을 바꿔 끼우는 장식 프리셋이 아닙니다. 다음 변환 인과를 따릅니다:
@@ -39,22 +55,6 @@ lock decisive silhouette and structure → preserve three cues → flatten volum
 - **재료와 색:** 고정 템플릿이 아니라 사진에서 도출하고 프로젝트별 생성 규격을 적용합니다.
 
 미적 제약과 금지 항목은 [원본 프롬프트](references/044-source.md)에만 있으며 Skill과 런타임 어댑터는 이번 출력 변수만 처리합니다. [Skill](SKILL.md) · [영문 런타임 어댑터](references/xxd-panel-044-prompt.en.md)
-
-## 예시 · X에서
-
-> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091168463775736248) · 2026년 8월 22일<br>
-> GPT2 × 금박 × 재해석 × 미학 프롬프트 × VOL.044
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091168463775736248"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 044 예시 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091168463775736248"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 044 예시 2"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091168463775736248">원문 게시물과 전체 프롬프트 보기 →</a></p>
-
-이 예시는 044의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
 
 ## 원본 프롬프트가 유일한 미적 기준입니다
 

@@ -20,6 +20,22 @@
 
 源图决定性剪影以真实薄层黄金直接铺在深色平面：金箔、锻金、压印金属或浅层铸金，并保留柔光、锤纹、褶皱、翘边与少量断裂。
 
+## 样张 · 来自 X
+
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091168463775736248) · 2026 年 8 月 22 日<br>
+> GPT2 × 金箔 × 转绘 × 美学提示词 × VOL.044
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091168463775736248"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 044 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091168463775736248"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 044 样张 2"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091168463775736248">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 044 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
+
 ## 为什么需要这套 Skill
 
 这套风格依赖每一张源图，不是可替换内容的装饰预设。它遵循这条重构链：
@@ -39,22 +55,6 @@
 - 只让一个纯金主体成为焦点；反射服从真实材质起伏，不得镜面刺光、俗黄或奢侈品广告戏剧感。
 
 原始审美约束与拒绝项只存在于[原始提示词](references/044-source.md)；Skill 与运行适配器只处理本次交付变量。 [Skill 工作流](SKILL.md) · [英文运行适配器](references/xxd-panel-044-prompt.en.md)
-
-## 样张 · 来自 X
-
-> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091168463775736248) · 2026 年 8 月 22 日<br>
-> GPT2 × 金箔 × 转绘 × 美学提示词 × VOL.044
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091168463775736248"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 044 样张 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091168463775736248"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 044 样张 2"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091168463775736248">查看原推文与完整提示词 →</a></p>
-
-这些样张用于展示 044 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 原始提示词优先，而不是二次导演
 
