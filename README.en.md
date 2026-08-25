@@ -36,6 +36,12 @@ These samples demonstrate the 044 aesthetic motive. Their subjects, composition,
 
 The decisive source silhouette is laid directly on a dark plane in real thin gold—foil, hammered sheet, pressed metal, or shallow cast material—with soft sheen, marks, folds, edge lift, and selective breaks.
 
+## Original prompt · Five languages
+
+[Open the unified translation directory](references/original-prompt/): [Simplified Chinese original](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
+
+The Simplified Chinese file preserves Xiaoxiaodong's wording verbatim and remains the sole runtime aesthetic authority. The other four files are faithful reading translations for international readers and sharing; they never rewrite the image-generation prompt.
+
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 044 right for you?
 
@@ -65,11 +71,11 @@ If an unrelated photograph could replace the source without materially changing 
 - Use a perfectly frontal, level camera and a deep, clean, restrained source-related ground with large quiet space and no perspective distortion.
 - Keep one gold subject as the sole focus; reflection follows real material relief without mirror glare, vulgar yellow, or luxury-advertising drama.
 
-Aesthetic constraints and rejection rules live only in the [original source brief](references/044-source.md); the Skill and runtime adapter handle delivery variables only. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-044-prompt.en.md)
+Aesthetic constraints and rejection rules live only in the [original source brief](references/original-prompt/zh-CN.md); the Skill and runtime adapter handle delivery variables only. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-044-prompt.en.md)
 
 ## The original brief is authoritative
 
-`references/044-source.md` is this project's sole creative and aesthetic authority. The Skill no longer summarizes or expands it, and it does not impose a shared palette, colour plan, aesthetic motive, title, or microcopy package. GPT Image 2 follows that brief's own rules for colour, material, composition, whitespace, wording, and typography.
+`references/original-prompt/zh-CN.md` is this project's sole creative and aesthetic authority. The Skill no longer summarizes or expands it, and it does not impose a shared palette, colour plan, aesthetic motive, title, or microcopy package. GPT Image 2 follows that brief's own rules for colour, material, composition, whitespace, wording, and typography.
 
 Mode and size completely replace the legacy 3:4 top-bottom delivery container without rewriting the transformation aesthetic. Each asset sends GPT Image 2 one selected mode's final contract instead of asking it to interpret four alternatives inside a generic template.
 
@@ -209,7 +215,7 @@ $xxd-panel-044
 Use this photograph, ask me for the modes and copy setting, then generate fresh raster outputs.
 ```
 
-Full specifications: [Skill workflow](SKILL.md) · [source archive](references/044-source.md) · [English runtime adapter](references/xxd-panel-044-prompt.en.md) · [Chinese runtime adapter](references/xxd-panel-044-prompt.zh-CN.md)
+Full specifications: [Skill workflow](SKILL.md) · [source archive](references/original-prompt/zh-CN.md) · [English runtime adapter](references/xxd-panel-044-prompt.en.md) · [Chinese runtime adapter](references/xxd-panel-044-prompt.zh-CN.md)
 
 <!-- xxd-panel-catalog:start -->
 ## Complete XXD Panel catalog
