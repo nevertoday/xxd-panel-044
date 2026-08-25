@@ -14,16 +14,7 @@
 
 </div>
 
-<div>
-
-> THIN GOLD · FRONTAL PLANE · SOURCE-DARK GROUND · HAMMERED TRACE · QUIET ORDER
-
-The decisive source silhouette is laid directly on a dark plane in real thin gold—foil, hammered sheet, pressed metal, or shallow cast material—with soft sheen, marks, folds, edge lift, and selective breaks.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091168463775736248) · 22 August 2026<br>
-> GPT2 × gold leaf × reinterpretation × aesthetic prompt × VOL.044
 
 <table>
   <tr>
@@ -32,9 +23,18 @@ The decisive source silhouette is laid directly on a dark plane in real thin gol
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091168463775736248) · 22 August 2026<br>
+> GPT2 × gold leaf × reinterpretation × aesthetic prompt × VOL.044
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091168463775736248">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 044 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+<div>
+
+> THIN GOLD · FRONTAL PLANE · SOURCE-DARK GROUND · HAMMERED TRACE · QUIET ORDER
+
+The decisive source silhouette is laid directly on a dark plane in real thin gold—foil, hammered sheet, pressed metal, or shallow cast material—with soft sheen, marks, folds, edge lift, and selective breaks.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 044 right for you?
