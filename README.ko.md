@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 044
+# 🦁 XXD Panel 044｜플랫 퓨어 골드
 
 ### 원본의 결정적 형태를 절제된 순금 장에 눌러 담기
 

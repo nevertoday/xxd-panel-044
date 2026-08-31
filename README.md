@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 044
+# 🦁 XXD Panel 044｜平面纯金
 
 ### 把源图决定性的形态压进一片克制纯金
 

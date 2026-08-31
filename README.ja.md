@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 044
+# 🦁 XXD Panel 044｜フラットな純金
 
 ### 元写真の決定的な形を、抑制された純金の場へ圧す
 

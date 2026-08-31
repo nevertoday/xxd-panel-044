@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 044
+# 🦁 XXD Panel 044｜Flat Pure Gold
 
 ### Press the source's defining form into one restrained field of pure gold
 
